@@ -4,5 +4,5 @@
 
 - 👋 Hola soy @Carlos Santos<br>- ✅ React Js, Node JS, Git, Javascript, HTML, CSS, GitHub y Tailwind CSS<br>-  Me interesa trabajar en proyectos de tecnologia  <br>- 📫 Contactame: cast0277@gmail.com
 
-## 🌐 Socials:
+## 🌐 Conectemos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalbertosantostadeo/) 
